@@ -22,7 +22,7 @@ const Home = () => {
                             saya <span className="block font-bold text-slate-900 text-4xl mt-1
                         lg:text-5xl dark:text-white">Eko Setiyawan</span>
                         </h1>
-                        <h2 className="font-medium text-slate-500 text-lg mb-5">Saya adalah seorang Website Developer dan Dosen
+                        <h2 className="font-medium text-slate-500 text-lg mb-5">Saya adalah seorang Website Developer
                         </h2>
                         <a href="https://wa.me/+6281228062102" target="_blank" rel='noreferrer' className="text-base font-semibold text-white bg-primary
                     py-3 px-8 rounded-full hover:shadow-lg
