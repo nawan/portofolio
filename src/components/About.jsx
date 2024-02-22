@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react'
 import 'aos/dist/aos.css';
 import Aos from 'aos';
+import '../assets/css/background.css';
 
 const About = () => {
 
@@ -11,7 +12,7 @@ const About = () => {
     }, [])
 
     return (
-        <section id='about' class="pt-10 pb-7 dark:bg-dark">
+        <section id='about' class="pt-10 pb-7 bg-green-50 bg-home dark:bg-dark">
             <div class="container">
                 <div class="flex flex-wrap">
                     <div class="w-full px-4 mb-10 lg:w-1/2" data-aos={"fade-up-right"}>

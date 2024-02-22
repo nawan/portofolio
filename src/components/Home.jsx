@@ -2,6 +2,7 @@ import Aos from 'aos';
 import 'aos/dist/aos.css';
 import React, { useEffect } from 'react';
 import FotoProfil from '../assets/images/profil.png';
+import '../assets/css/background.css';
 
 
 const Home = () => {
@@ -13,7 +14,7 @@ const Home = () => {
     })
 
     return (
-        <section id='home' className="pt-28 dark:bg-dark">
+        <section id='home' className="pt-28 bg-green-50 bg-home dark:bg-dark">
             <div className="container">
                 <div className="flex flex-wrap">
                     <div className="w-full self-center px-4 lg:w-1/2" data-aos={"fade-left"}>
