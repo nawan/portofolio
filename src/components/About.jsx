@@ -16,7 +16,7 @@ const About = () => {
             <div class="container">
                 <div class="flex flex-wrap">
                     <div class="w-full px-4 mb-10 lg:w-1/2" data-aos={"fade-up-right"}>
-                        <h4 class="font-bold uppercase text-primary text-lg mb-3">Tentang Saya</h4>
+                        <h4 class="font-bold uppercase text-primary text-lg mb-3">About Me</h4>
                         <h2 class="font-bold text-dark text-3xl mb-5 
                     max-w-md lg:text-4xl dark:text-white">Colaborative and Responsive</h2>
                         <p class="font-medium text-base text-secondary max-w-xl">Lorem ipsum dolor sit amet consectetur

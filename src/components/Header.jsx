@@ -10,7 +10,7 @@ export const Header = () => {
     const linksMenu = [
         { name: "Home", link: "#home" },
         { name: "About", link: "#about" },
-        { name: "Portfolio", link: "#portfolio" },
+        { name: "Portofolio", link: "#portfolio" },
         { name: "Clients", link: "#clients" },
         { name: "Contact", link: "#contact" },
     ];
