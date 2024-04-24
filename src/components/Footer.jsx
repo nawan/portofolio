@@ -15,20 +15,32 @@ const Footer = () => {
                     </div>
                     <div class="w-full px-4 mb-12 md:w-1/3">
                         <h3 class="font-semibold text-xl text-white mb-5">
-                            Kategori Tulisan
+                            Bahasa Pemrograman
                         </h3>
                         <ul class="text-slate-300">
                             <li>
-                                <a href="#footer" class="inline-block text-base
-                            hover:text-primary">Pemrograman</a>
+                                <a href="#blog" class="inline-block text-base
+                            hover:text-primary">Laravel</a>
                             </li>
                             <li>
-                                <a href="#footer" class="inline-block text-base
-                            hover:text-primary">Teknologi Informasi</a>
+                                <a href="#blog" class="inline-block text-base
+                            hover:text-primary">PHP</a>
                             </li>
                             <li>
-                                <a href="#footer" class="inline-block text-base
-                            hover:text-primary">Sistem Informasi Manajemen</a>
+                                <a href="#blog" class="inline-block text-base
+                            hover:text-primary">JavaScript</a>
+                            </li>
+                            <li>
+                                <a href="#blog" class="inline-block text-base
+                            hover:text-primary">SQL</a>
+                            </li>
+                            <li>
+                                <a href="#blog" class="inline-block text-base
+                            hover:text-primary">HTML</a>
+                            </li>
+                            <li>
+                                <a href="#blog" class="inline-block text-base
+                            hover:text-primary">CSS</a>
                             </li>
                         </ul>
                     </div>
@@ -57,15 +69,11 @@ const Footer = () => {
                                 <a href="#blog" class="inline-block text-base
                             hover:text-primary">Blog</a>
                             </li>
-                            <li>
-                                <a href="#contact" class="inline-block text-base
-                            hover:text-primary">Contact</a>
-                            </li>
                         </ul>
                     </div>
                 </div>
                 <div class="w-full pt-10 border-t border-slate-700">
-                    <div class="flex items-center justify-center mb-5">
+                    {/* <div class="flex items-center justify-center mb-5">
 
                         <a href="https://www.youtube.com/" target="_blank" rel='noreferrer' class="w-9 h-9 mr-3 rounded-full
                     flex justify-center items-center border border-slate-300
@@ -156,16 +164,16 @@ const Footer = () => {
                         23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z" />
                             </svg>
                         </a>
-                    </div>
+                    </div> */}
                     <p class="font-medium text-sm text-slate-500 text-center flex items-center justify-center gap-1">
                         <span class="font-bold text-2xl">©️</span> Copyrigth by
                         <a href="https://www.instagram.com/eanes_inst/" target="_blank" rel='noreferrer'
                             class="font-bold text-primary hover:opacity-50">nawan</a>
-                        2023
+                        2024
                     </p>
                 </div>
             </div>
-        </footer>
+        </footer >
     )
 }
 

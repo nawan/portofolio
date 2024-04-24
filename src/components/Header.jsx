@@ -12,7 +12,7 @@ export const Header = () => {
         { name: "About", link: "#about" },
         { name: "Portofolio", link: "#portfolio" },
         { name: "Clients", link: "#clients" },
-        { name: "Contact", link: "#contact" },
+        { name: "Blog", link: "#blog" },
     ];
 
     useEffect(() => {

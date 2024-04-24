@@ -3,7 +3,6 @@ import Header from './components/Header';
 import Home from './components/Home';
 import Portfolio from './components/Portfolio';
 import Footer from './components/Footer';
-import Contact from './components/Contact';
 import Clients from './components/Clients';
 import About from './components/About';
 import Blog from './components/Blog';
@@ -19,7 +18,6 @@ const App = () => {
             <Portfolio />
             <Clients />
             <Blog />
-            <Contact />
             <Footer />
             <BackToTop />
         </div>
